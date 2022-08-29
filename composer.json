@@ -9,6 +9,7 @@
     "paragonie/easyrsa": "^0.6.0",
     "mehmetbeyhz/easy-json-mapper": "dev-master"
   },
+  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "TPLink\\": "src"
